@@ -1,0 +1,13 @@
+{
+  "token": " Token ",
+  "prefix": "!",
+  "liveChatChannelId": "1313613088880066641",
+  "exe_cmd": ".",
+  "servercmd": "/server opfactions",
+  "server": {
+    "host": "play.pikanetwork.net",
+    "port": 25565,
+    "username": "replyAlt_11",
+    "password": "proforceplayerCRYSTAL"
+  }
+}
